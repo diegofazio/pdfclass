@@ -2,5 +2,3 @@ Description=any
 libs=pdfclass
 {!xhb}libs=hbhpdf.hbc hbzebra.hbc hbct.hbc
 incpaths=include
-{xhb}incpaths=d:\xharbour\contrib\hbhpdf
-{xhb}incpaths=d:\xharbour\contrib\hbzebra
